@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0d47a1,100:76b900&height=200&section=header&text=Aravind%20Anand&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Building%20Real-World%20Solutions&descAlignY=58&descColor=76b900&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0d47a1,100:76b900&height=200&section=header&text=Aravind%20Anand&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer&descAlignY=58&descColor=76b900&animation=fadeIn"/>
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=76B900&center=true&vCenter=true&width=700&lines=First-Year+B.E.+CSE+%28AI%2FML%29+%40+CIT+Coimbatore;Built+SurgiScore+%F0%9F%94%AC+%7C+Flora+EXp+%F0%9F%8C%B1;NVIDIA+Developer+%7C+GDG+Emerging+Tech;Daily+LeetCode+%7C+NPTEL+Quantum+Computing;Always+Building.+Always+Learning.+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=76B900&center=true&vCenter=true&width=700&lines=First-Year+B.E.+CSE+%28AI%2FML%29+%40+CIT;Built+SurgiScore+%7C+Flora+EXp;NVIDIA+Developer+%7C+GDG+Emerging+Tech;Daily+LeetCode+%7C+NPTEL+Quantum+Computing;Always+Building.+Always+Learning)](https://git.io/typing-svg)
 
 </div>
 
@@ -116,10 +114,7 @@ Currently learning: **Qubits | Quantum Gates | Bell States | Deutsch-Jozsa Algor
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aravind_Anand-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aravind-anand-370180385/)
-[![Email](https://img.shields.io/badge/Email-aravindanand2019@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aravindanand2019@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-aravindanand2019--sudo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aravindanand2019-sudo)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=76B900&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=First-Year+B.E.+CSE+%28AI%2FML%29+%40+CIT+Coimbatore;Built+SurgiScore+%7C+Flora+EXp;NVIDIA+Developer+%7C+GDG+Emerging+Tech;Daily+LeetCode+%7C+NPTEL+Quantum+Computing;Always+Building.+Always+Learning)](https://git.io/typing-svg)
 </div>
 
 ---
