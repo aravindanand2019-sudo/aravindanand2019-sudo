@@ -1,52 +1,50 @@
-
 # Aravind Anand
 
-**AI & ML Engineer | Building Real-World Solutions**
-B.E. CSE (AI/ML) @ CIT Coimbatore — Batch 2029
+**AI/ML student engineer building practical computer vision systems**
+
+B.E. CSE (AI/ML) at Coimbatore Institute of Technology, Coimbatore  
+Focused on computer vision, deep learning, and real-world AI products
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aravind_Anand-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aravind-anand-370180385/)
+[![GitHub](https://img.shields.io/badge/GitHub-aravindanand2019--sudo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aravindanand2019-sudo)
+[![Email](https://img.shields.io/badge/Email-aravindanand2019@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aravindanand2019@gmail.com)
 
 ---
 
 ## About Me
 
-```python
-aravind = {
-    "name"       : "Aravind Anand",
-    "degree"     : "B.E. CSE (AI/ML) @ CIT Coimbatore — Batch 2029",
-    "passion"    : ["Computer Vision", "Deep Learning", "Quantum Computing"],
-    "projects"   : ["SurgiScore", "Flora EXp"],
-    "goal"       : "High-impact AI/ML internship by 3rd year",
-    "vision"     : "Build an affordable low-cost quantum computer",
-    "currently"  : "Semester 2 | Daily LeetCode | NPTEL Quantum Computing",
-    "fun_fact"   : "Shipped 2 real AI projects before finishing 1st year"
-}
-```
+I enjoy building AI systems that solve real problems, especially in healthcare and agriculture. My current work is centered on turning machine learning models into usable products with clear outputs, practical interfaces, and measurable impact.
+
+### Current Focus
+- Building end-to-end AI/ML projects with Python, Flask, OpenCV, and YOLOv8
+- Strengthening data structures, problem solving, and deployment fundamentals
+- Exploring quantum computing through NPTEL and self-driven study
+- Looking for opportunities to grow through internships, collaboration, and project-based learning
 
 ---
 
 ## Featured Projects
 
-### SurgiScore — AI Surgical Training Evaluator
-> Presented at Medathon 2026 | Grade A (~83/100)
+### SurgiScore
+**AI surgical training evaluator for arthroscopy practice**
 
-- Built an end-to-end AI system to evaluate arthroscopic surgery trainees in real-time
-- YOLOv8 custom-trained on ~316 images (82.5% detection accuracy)
-- Scores trainees on Stability, Efficiency, Precision and Smoothness
-- Claude API generates personalized mentor feedback
-- Flask backend + leaderboard + downloadable PDF reports
+- Built a Flask-based platform that analyzes surgical training videos and produces objective skill scores
+- Used a custom YOLOv8 pipeline for instrument detection and motion-based evaluation
+- Measures performance across stability, efficiency, precision, and smoothness
+- Added AI-generated mentor feedback plus report generation for trainees
+- Presented at Medathon 2026 and received a Grade A evaluation
 
-[![Repo](https://img.shields.io/badge/GitHub-SurgiScore-76b900?style=for-the-badge&logo=github)](https://github.com/aravindanand2019-sudo/Surgiscore)
+[View Repository](https://github.com/aravindanand2019-sudo/Surgiscore)
 
----
+### Flora EXp
+**Plant disease detection system for multiple crops**
 
-### Flora EXp — Plant Disease Detection System
-> Supporting 4 crops: Tomato | Paddy | Maize | Chilli
+- Built a computer vision system to detect plant diseases from crop leaf images
+- Supports tomato, paddy, maize, and chilli workflows
+- Combined YOLOv8 models with both Flask and Tkinter interfaces
+- Designed to support earlier diagnosis and reduce crop loss risk
 
-- YOLOv8-powered disease detection from leaf images
-- Severity scoring + treatment recommendations
-- Built with Python, Flask, Tkinter
-- Phase 2 roadmap: dosage calculation to drone path planning
-
-[![Repo](https://img.shields.io/badge/GitHub-Flora_EXp-76b900?style=for-the-badge&logo=github)](https://github.com/aravindanand2019-sudo/Plant-disease-detection)
+[View Repository](https://github.com/aravindanand2019-sudo/Plant-disease-detection)
 
 ---
 
@@ -55,47 +53,35 @@ aravind = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CUDA](https://img.shields.io/badge/CUDA-76b900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ---
 
-## Achievements and Memberships
+## Highlights
 
-| Achievement | Date |
-|---|---|
-| NVIDIA 6G Developer Program Member | Apr 2026 |
-| NVIDIA Developer Program Member | Apr 2026 |
-| Emerging Tech Team, GDG On Campus CIT | Apr 2026 |
-| HackerRank Silver Medal, C Programming | 2025 |
-| Medathon 2026, SurgiScore Grade A | 2026 |
-| NPTEL Quantum Computing (noc26_cs89) | 2026 |
-| LeetCode 100+ Problems Solved | Ongoing |
+- NVIDIA Developer Program Member
+- NVIDIA 6G Developer Program Member
+- Emerging Tech Team, GDG On Campus CIT
+- Medathon 2026 project presentation: SurgiScore
+- HackerRank Silver Medal in C Programming
+- 100+ LeetCode problems solved
 
 ---
 
-## GitHub Stats
+## GitHub Snapshot
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindanand2019-sudo&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a192f"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindanand2019-sudo&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a192f" alt="Top languages" />
 </div>
 
 ---
 
-## Long-Term Vision
+## Long-Term Direction
 
-"I want to build an affordable, low-cost quantum computer — making quantum computing accessible beyond elite research labs and top universities."
+I want to keep building practical AI systems in the near term while growing toward deeper work in advanced computing, including quantum computing research and engineering.
 
-Currently learning: Qubits | Quantum Gates | Bell States | Deutsch-Jozsa Algorithm | Bloch Sphere
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aravind_Anand-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aravind-anand-370180385/)
-[![Email](https://img.shields.io/badge/Email-aravindanand2019@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aravindanand2019@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-aravindanand2019--sudo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aravindanand2019-sudo)
-```
+If you are working on applied AI, computer vision, healthcare tech, or student collaboration opportunities, I would be glad to connect.
